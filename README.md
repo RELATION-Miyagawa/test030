@@ -1,3 +1,4 @@
+:smile:, :cat:, :smile_cat:
 # test030
 # 見出し1
 ## 見出し2
